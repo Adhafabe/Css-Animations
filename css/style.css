@@ -26,8 +26,15 @@ ul {
 
 .seccion__title{
     width: 100%;
-    font-size: 25px;
-    color: rgb(105, 15, 141);
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.24);
+    text-decoration-line: line-through;
+    text-decoration-color: #d61581b5;
+    -webkit-text-stroke: thin;
+    -webkit-text-stroke-color: mediumvioletred;
+    -webkit-text-emphasis: sesame;
+    -webkit-text-emphasis-color: #d61581;
     text-align: center;
 }
 
